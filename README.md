@@ -15,7 +15,12 @@ The main folder contains
 - raw dataset
 - clean dataset folder
 - plots
-
+***
 ### Analysis 1
-+ This analysis describe the wind power production hourly in March 2022 
+- This analysis describe the wind power production hourly in March 2022 
+- The highest power produced from wind is from the ealier of the month and hardly dropped.
+- The power produced from wind is regularly, consistent most of the days except if there was a storm
+- The wind turbine will be cut off if the wind is too strong or too weak to prevent damages(cut-in: 4.0 m/s and cut-out: 25m/s) 
+
+![alt text](dataAnalyst/windower.png "Logo Title Text 1")
 
