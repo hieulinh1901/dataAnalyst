@@ -6,7 +6,7 @@ This is a small data analyst project of wind power production and solar irradian
 - The Dataset is taken from wunderground contain weather data in Marrawah area in March 2022
 - The raw dataset is not cleaned. There are some missing values. The data of wind speed and wind gust need to be caculated. The wind power need to be calcualated.
 -  The wind power will be calculated according to the paper from The royal academic of engineering (https://www.raeng.org.uk/publications/other/23-wind-turbine)
-- Turbine detail is calculated base on Vestas V66-1.77 model. Using Vestas V66-1.75 model detail.
+- Turbine detail is calculated base on Vestas V66-1.75 model. Using Vestas V66-1.75 model detail.
 - The dataset is cleaned and stored in a cleanData folder which contains the entire cleaned dataset plus analyst dataset named as cleanedData.csv and analystData.csv
 
 ### More Info
