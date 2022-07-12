@@ -28,8 +28,8 @@ The main folder contains
 ### Analysis 2
 - This analysis describe the solar irradiance hourly in March 2022 in Marrawah, 7330, Tas
 - In March, solar irradiance mainly happend mostly around 5hrs to 6hrs a day. 
-- There are 3 cloudy days with low solar irradiance.
-- The period of time has highest solar irradiance is from 11:00 to 15:00
+- There are 3 cloudy days in March with low solar irradiance.
+- The period of time has highest solar irradiance is from 11:00 to 15:00 daily.
 
 ![solarmap](https://user-images.githubusercontent.com/102902495/161425461-814e7ed9-588c-4f95-8004-61530e917d4e.png)
 (please click for a clear plot)
